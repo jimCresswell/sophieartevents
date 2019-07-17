@@ -2,7 +2,7 @@ body {
   text-align: center;
   background: black;
   color: Snow;
-  font-size: 1.2em;
+  font-size: 1.8em;
 }
 
 a {
@@ -39,6 +39,6 @@ figure img {
   min-width: 50%;
 }
 figure .copyright {
-  font-size: 0.7em;
+  font-size: 0.7rem;
   margin-top: 0;
 }
